@@ -1,0 +1,15 @@
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
